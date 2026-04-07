@@ -2,7 +2,7 @@
 
 An interactive web application for modelling microbial fermentation, bioreactor design, and industrial scale-up. Built with Python and Streamlit.
 
-**[Live App](https://bioprocess-simulator-manyadkadiwala.streamlit.app)** — open in your browser, no installation required.
+**[Live App](https://manyadkadiwala-bioprocess-simulator.streamlit.app)** — open in your browser, no installation required.
 
 ---
 
